@@ -1,6 +1,6 @@
 def game(): 
  print("			WELCOME TO PEG SOLITAIRE")
- print("RULES:")
+ print("RRULES:")
  print("1.PEG - 'O'	HOLE - '_'")
  print("1.A PEG IS MOVED TO A HOLE")
  print("2.A PEG MUST JUMP OVER AN ADJACENT PEG")
